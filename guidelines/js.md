@@ -10,7 +10,6 @@
 
 ### Statements
 
-### Naming
+### Naming Conventions
 
 ### Pro tips
-
