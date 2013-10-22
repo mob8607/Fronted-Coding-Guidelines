@@ -58,7 +58,7 @@ starts on a new line. To declare several variables just use one
     var myVar,
         awesome,
         baz,
-        foo = 'hello';
+        foo = 'hello',
         defined = 123;
 ```
 
