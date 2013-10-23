@@ -3,7 +3,7 @@
 
 ### Spaces and Indentations
 Tabs are bad and if you use them you should feel bad! 
-Indentations size is 4 space units.
+Indentation size is 4 space units.
 
 Every JavaScript File should end with an empty line.
 
